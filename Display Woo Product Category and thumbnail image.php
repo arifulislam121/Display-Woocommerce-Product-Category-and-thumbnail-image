@@ -1,4 +1,4 @@
-=============== Display Woo Product Category and thumbanil image rule-02 ==========
+=============== Display Woo Product Category and thumbnail image  ==========
 
 <?php global  $woocommerce;  ?>
 					
